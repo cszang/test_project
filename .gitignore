@@ -2,5 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
-test_files/*
-test.html
+quarto/test_files/*
+quarto/test.html
